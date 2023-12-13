@@ -5,14 +5,14 @@
 - 1.1 Introducción a Machine Learning e Inteligencia Artificial
 - 1.2 Tipos de IA y Tipos de modelos de ML
 - 1.3 Regresión: Regresión Lineal
-- 1.4 Clasificación: Regresión Logística, Árboles de Decisión y Random Forest
  
 ## 2. Conceptos Avanzados de Machine Learning
 
-- 2.1 Clustering: Kmeans
-- 2.2 Sistemas de recomendación
-- 2.3 Validación Cruzada.
-- 2.4 Reducción de Dimensionalidad.
+- 2.1 Clasificación: Regresión Logística, Árboles de Decisión y Random Forest
+- 2.2 Clustering: Kmeans
+- 2.3 Sistemas de recomendación
+- 2.4 Validación Cruzada.
+- 2.5 Reducción de Dimensionalidad.
  
 ## 3. Calidad de los Datos, Preprocesamiento y Metadatos
  
