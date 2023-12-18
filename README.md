@@ -8,18 +8,17 @@
  
 ## 2. Conceptos Avanzados de Machine Learning
 
-- 2.1 Clasificación: Regresión Logística, Árboles de Decisión y Random Forest
-- 2.2 Clustering: Kmeans
-- 2.3 Sistemas de recomendación
+- 2.1 Clasificación: Regresión Logística, Árboles de Decisión, Random Forest y KNN
+- 2.2 Sistemas de recomendación
 - 2.4 Validación Cruzada.
-- 2.5 Reducción de Dimensionalidad.
  
 ## 3. Calidad de los Datos, Preprocesamiento y Metadatos
- 
-- 3.1 Importancia de la Calidad de los Datos.
-- 3.2 Técnicas de Preprocesamiento.
-- 3.3 Gestión de Metadatos en Proyectos de Machine Learning.
-- 3.4 Introduccion a redes neuronales
+
+- 3.1 Clustering: Kmeans y Reducción de Dimensionalidad.
+- 3.2 Importancia de la Calidad de los Datos.
+- 3.3 Técnicas de Preprocesamiento.
+- 3.4 Gestión de Metadatos en Proyectos de Machine Learning.
+- 3.5 Introduccion a redes neuronales
  
 ## 4. Plataformas de Inteligencia Artificial
  
