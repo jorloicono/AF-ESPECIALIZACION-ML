@@ -9,10 +9,10 @@
 
 - 2.1 Regresión: Regresión Lineal
 - 2.2 Clasificación:
- - Regresión Logística
- - Árboles de Decisión
- - Random Forest 
- - KNN
+  - Regresión Logística
+  - Árboles de Decisión
+  - Random Forest 
+  - KNN
  
 ## 3. Preprocesamiento, Clustering y Selección de Hiperparametros
 
