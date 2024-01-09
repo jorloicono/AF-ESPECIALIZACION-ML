@@ -1,4 +1,4 @@
-# AF-ML-IMPELIA
+# AF-ESPECIALIZACION-ML
 
 ## 1. Introducción a Machine Learning e IA
  
